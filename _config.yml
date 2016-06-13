@@ -6,9 +6,9 @@ color:
   saturation: 0.8323539546690881
   rhythmicContrast: 0.54583795578219
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
 name: SoftwareAssassin.com
